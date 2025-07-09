@@ -25,6 +25,6 @@ Developed as part of a team project, this e-commerce web application allows user
 3 members
 ## 📸 Project Output Screenshots
 
-![Output Screenshot](output1.png)
+![Output Screenshot](output1.png.jpeg)
 
 ![Output Screenshot 2](output2.png)
