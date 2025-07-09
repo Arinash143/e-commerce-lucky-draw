@@ -23,3 +23,8 @@ Developed as part of a team project, this e-commerce web application allows user
 
 ## Team Size
 3 members
+## 📸 Project Output Screenshots
+
+![Output Screenshot 1](output1.png)
+
+![Output Screenshot 2](output2.png)
